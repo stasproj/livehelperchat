@@ -38,7 +38,7 @@
     "react-dom": "^16.14.0",
     "react-i18next": "^11.15.3",
     "react-scripts": "^5.0.0",
-    "socketcluster-client": "^14.3.2",
+    "socketcluster-client": "^17.1.0",
     "webpack": "^5.65.0",
     "webpack-cli": "^4.9.1",
     "wolfy87-eventemitter": "^5.2.9",
