@@ -26,7 +26,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-i18next": "^11.15.3",
-    "socketcluster-client": "^16.0.4",
+    "socketcluster-client": "^17.1.0",
     "wolfy87-eventemitter": "^5.2.9"
   },
   "devDependencies": {
